@@ -1,0 +1,54 @@
+header{
+    display: flex;
+    border-bottom: 2px solid black;
+    gap: 100px;
+    padding-bottom: 10px;
+}
+.eye{
+    border: 1px solid yellow;
+    color: aqua;
+}
+td{
+
+    border: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+th,td{
+   
+        padding: 8px;
+        text-align: left;
+        border-right: 1px solid white;
+}
+tr{
+    border:1px solid  black;
+}
+.last{
+    display: flex;
+    gap: 500px;
+}
+.one{
+    background-color: yellow;
+    padding: 3px;
+}
+.black{
+    background-color: black;
+    color: burlywood;
+}
+body{
+    background: linear-gradient(30deg, rgb(250, 250, 211),rgb(219, 219, 139),rgb(209, 213, 219) ,white, white);
+}
+.fr{
+    background-color: rgba(252, 248, 248, 0.87);
+}
+.sub{
+    float: right;
+}
+.chops{
+    float: right;
+}
+.slice{
+    float: right;
+}
